@@ -1,0 +1,65 @@
+#title {
+  background-color: #06283D;
+  color: #EEEEEE;
+  padding-bottom: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+hr {
+  margin: 40px;
+}
+
+/* Navigation bar*/
+.navbar {
+  padding: 0.5rem;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.Resume {
+  font-family: 'Rampart One', cursive;
+  padding: 50px;
+}
+
+.info {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.info1 {
+  margin-left: 10px;
+}
+
+.work-description {
+  text-align: left;
+}
+
+.bottom-layer {
+  padding-bottom: 80px;
+}
+
+#footer {
+  background-color: #06283D;
+  padding: 50px;
+  text-align: center;
+  color: #EEEEEE;
+}
